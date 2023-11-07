@@ -33,7 +33,7 @@ Experienced Mixed Reality Developer.
 </a>
 
 <a href="https://github.com/casperious/518GroupProject">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=casperious&repo=518GroupProject&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Delegate" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=casperious&repo=518GroupProject&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="518GroupProject" />
 </a>
 
 
