@@ -1,4 +1,13 @@
 ### Hi there 👋
+Welcome to my Github!
+### About Me:-
+A well rounded computer scientist, with special interest in innovative healthcare solutions integrating AI/ML technologies. 
+Experienced Mixed Reality Developer.
+
+### Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=casperious)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--
 **casperious/casperious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
