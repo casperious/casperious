@@ -2,11 +2,11 @@
 Welcome to my Github!
 
 ### About Me:-
-A well rounded computer scientist, with special interest in innovative healthcare solutions integrating AI/ML technologies. 
+A well rounded computer scientist, with special interest in innovative healthcare solutions integrating AI/ML technologies. <br></br>
 Experienced Mixed Reality Developer.
 
 ### Tech Stack:-
-<div align="center">
+<div align="left">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png" alt="Sublime Text" title="Sublime Text"/></code>
@@ -36,10 +36,10 @@ Experienced Mixed Reality Developer.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=casperious&repo=518GroupProject&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Delegate" />
 </a>
 
-<!--
+
 ### Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=casperious)](https://github.com/ryo-ma/github-profile-trophy)
--->
+
 
 <!--
 **casperious/casperious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
