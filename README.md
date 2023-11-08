@@ -38,7 +38,7 @@ Experienced Mixed Reality Developer.
 
 
 ### Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=casperious)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=casperious&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Current Location Updates
 Currently, the weather is: <b> 6°C, <i>overcast clouds</i></b></br>Today, the sun rises at <b>07:20</b> and sets at <b>15:42</b>.</p>
