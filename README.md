@@ -41,5 +41,5 @@ Big fan of the outdoors.
 </a>
 
 ### Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=casperious&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=casperious&theme=onedark&title=Commits,Experience,PullRequest,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
