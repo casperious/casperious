@@ -4,6 +4,7 @@ Welcome to my Github!
 ### About Me:-
 A well rounded computer scientist, with special interest in innovative healthcare solutions integrating AI/ML technologies. <br></br>
 Experienced Mixed Reality Developer.
+Big fan of the outdoors.
 
 ### Tech Stack:-
 <div align="left">
