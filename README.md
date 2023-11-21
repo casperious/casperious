@@ -6,8 +6,7 @@ A well rounded computer scientist, with special interest in innovative healthcar
 Experienced Mixed Reality Developer.
 Big fan of the outdoors.
 
-### Tech Stack:-
-<div align="left">
+<!--<div align="left">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png" alt="Sublime Text" title="Sublime Text"/></code>
@@ -26,6 +25,65 @@ Big fan of the outdoors.
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" alt="Unity" title="Unity"/></code
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/></code>
+</div>-->
+### Tech and Tools:-
+
+<div align="center" style="witdh:100%"> 
+  <table>
+    <tr>
+      <td valign="center" width="100px"><b>Frontend<b></td>
+      <td valign="center" width="100px"><b>Backend<b></td>
+      <td valign="center" width="100px"><b>Dev<b></td>
+    </tr>
+    <tr>
+      <td valign="center" align="center" width="300px">
+        <img src="https://img.shields.io/badge/HTML-blue" /> 
+        <img src="https://img.shields.io/badge/CSS-blue" />
+        <img src="https://img.shields.io/badge/JavaScript-blue" /> 
+        <img src="https://img.shields.io/badge/React-blue" /> 
+        <img src="https://img.shields.io/badge/Angular-blue" /> 
+        <img src="https://img.shields.io/badge/Bootstrap-blue" /> 
+      </td>      
+      <td valign="center" align="center" width="300px">
+        <img src="https://img.shields.io/badge/Django-blue" /> 
+        <img src="https://img.shields.io/badge/Python-blue" />       
+        <img src="https://img.shields.io/badge/BeautifulSoup-blue" /> 
+        <img src="https://img.shields.io/badge/Pandas-blue" /> 
+        <img src="https://img.shields.io/badge/Numpy-blue" /> 
+        <img src="https://img.shields.io/badge/Node.js-blue" /> 
+        <img src="https://img.shields.io/badge/Express-blue" /> 
+      </td>
+      <td valign="center" align="center" width="300px">
+        <img src="https://img.shields.io/badge/MySQL-blue" /> 
+        <img src="https://img.shields.io/badge/NoSQL-blue" /> 
+        <img src="https://img.shields.io/badge/MongoDB-blue" /> 
+        <img src="https://img.shields.io/badge/PostgreSQL-blue" /> 
+      </td>
+    </tr>
+  </table>
+  <table>
+    <tr>
+      <td valign="center" width="100px"><b>Mixed Reality<b></td>
+      <td valign="center" width="100px"><b>Design<b></td>
+    </tr>
+    <tr>
+      <td valign="center" align="center" width="300px">
+        <img src="https://img.shields.io/badge/Unity-blue" /> 
+        <img src="https://img.shields.io/badge/Oculus-blue" /> 
+        <img src="https://img.shields.io/badge/HTC Vive-blue" /> 
+        <img src="https://img.shields.io/badge/Desktop-blue" /> 
+        <img src="https://img.shields.io/badge/Android-blue" /> 
+      </td>
+     <td valign="center" align="center" width="300px">
+       <img src="https://img.shields.io/badge/Photoshop-blue" /> 
+       <img src="https://img.shields.io/badge/Adobe-blue" /> 
+       <img src="https://img.shields.io/badge/Figma-blue" /> 
+       <img src="https://img.shields.io/badge/Blender-blue" /> 
+       <img src="https://img.shields.io/badge/Balsamiq-blue" /> 
+       <img src="https://img.shields.io/badge/Trello-blue" /> 
+      </td>
+    </tr>
+  </table>
 </div>
 
 ### Highlighted Projects:-
