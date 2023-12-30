@@ -1,5 +1,5 @@
 ### Hi there 👋
-Welcome to my Github! Feel free to step through my repos! 
+Welcome to my Github!
 ### About Me:-
 A well rounded computer scientist, with special interest in innovative healthcare solutions integrating AI/ML and Mixed Reality technologies. <br></br>
 Experienced Mixed Reality Developer.
