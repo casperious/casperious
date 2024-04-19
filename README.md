@@ -96,6 +96,9 @@ Big fan of the outdoors.
 <a href="https://github.com/casperious/500_Project_2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=casperious&repo=500_Project_2&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="500_Project_2" />
 </a>
+<a href="https://github.com/casperious/DentalVR">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=casperious&repo=DentalVR&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DentalVR" />
+</a>
 
 ### Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=casperious&theme=onedark&title=Commits,Experience,PullRequest,Repositories,Followers,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
