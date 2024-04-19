@@ -86,8 +86,8 @@ Big fan of the outdoors.
 </div>
 
 ### Highlighted Projects:-
-<a href="https://github.com/casperious/brain_stroke_predictor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=casperious&repo=brain_stroke_predictor&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Brain_Stroke_Predictor" />
+<a href="https://github.com/casperious/AnimalKingdomProject">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=casperious&repo=AnimalKingdomProject&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="AnimalKingdomProject" />
 </a>
 
 <a href="https://github.com/casperious/518GroupProject">
